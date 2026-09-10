@@ -1,0 +1,18 @@
+# Obsidian internal files
+.obsidian/
+.trash/
+*.bak
+*.tmp
+
+.claude/
+.copilot/
+
+# Opencode / Copilot system and agent directories
+.opencode/
+.agents/
+copilot/
+
+# System and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
